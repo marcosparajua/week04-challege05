@@ -1,0 +1,16 @@
+.pokemon-nav {
+  padding: 10px 25px 10px;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(137, 234, 179);
+  font-size: 1.8rem;
+  box-shadow: 3px 4px #cce3c8;
+}
+h1 {
+  text-transform: uppercase;
+  color: rgb(203, 241, 241);
+  letter-spacing: 0.2rem;
+  font-size: 30px;
+}
